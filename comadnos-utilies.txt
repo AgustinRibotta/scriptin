@@ -1,5 +1,0 @@
-# Te permite ejecutar el codigo con una interfas interactiva
-# Elimina el conenedor una vez que se cierra la shell
-
-docker run -it --rm nombre_de_tu_imagen /bin/bash
-
